@@ -11,4 +11,5 @@ Feature2
 Feature2 changes
 Fixing bug#1234
 Setting up repository is very easy.Featrure2
+Another fix to Bug#1234
 
