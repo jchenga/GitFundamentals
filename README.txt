@@ -10,4 +10,4 @@ Feature1
 Feature2
 Feature2 changes
 
-Setting up repository is very easy.
+Setting up repository is very easy.Added feature2 again
