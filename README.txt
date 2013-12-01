@@ -11,3 +11,4 @@ Feature2
 Feature2 changes
 
 Setting up repository is very easy.Added feature2 again
+Feature2 changes
